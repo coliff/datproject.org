@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "choo": "^6.13.0",
-    "choo-devtools": "^2.5.1",
+    "choo-devtools": "^3.0.0",
     "dat-colors": "^3.5.1",
     "dat-icons": "^2.5.2",
     "microanalytics": "^1.0.1",
